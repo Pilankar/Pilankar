@@ -1,10 +1,8 @@
-<h2 align="center">
+<h1 align="center">
     Hello
     <img src="https://user-images.githubusercontent.com/63506466/163518998-7c05e2df-d20f-4731-ba24-8c54c287f621.gif"
-        width="35" />, I'm 
-        
-</h2>
-<h1 align="center"><span style="font-weight:700; ">Mitali Pilankar </span></h1>
+        width="35" />, I'm <span style="font-weight:700; ">Mitali Pilankar </span>   
+</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/mitali-pilankar-616077219/" target="blank" title="LinkedIn" style="text-decoration:none">
