@@ -105,9 +105,7 @@
 <h3 align="left" style="font-weight:600; "> 📊 My Stats:</h3>
 <br>
 <p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pilankar&show_icons=true&locale=en&layout=compact" height="200" alt="pilankar" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilankar&show_icons=true&locale=en" height="200" alt="pilankar" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilankar&" height="200" alt="pilankar" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pilankar&show_icons=true&locale=en&layout=compact" height="200" alt="pilankar" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pilankar&" height="200" alt="pilankar" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pilankar&show_icons=true&locale=en" height="200" alt="pilankar" />
 </p>
