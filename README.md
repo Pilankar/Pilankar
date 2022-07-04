@@ -110,6 +110,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pilankar&show_icons=true&locale=en" height="200" alt="pilankar" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilankar&" height="200" alt="pilankar" />
-
-</p># Pilankar
-# Pilankar
+</p>
