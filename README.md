@@ -32,7 +32,7 @@
 
 - 🎓 Know more about my expreriences **[Resume](https://drive.google.com/file/d/1w44Mjw2n6fmJityJL4WamMcc5UCMD20U/view)**
 
-- 🎯 I’m currently learning **Jira, Git** 
+- 🎯 I’m currently learning **Node.js** 
 
 ---
 
