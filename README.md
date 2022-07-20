@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pilankar.github.io/Portfolio/](https://pilankar.github.io/Portfolio/)
 
-- 🎓 Know more about my expreriences **[Resume](https://drive.google.com/file/d/1w44Mjw2n6fmJityJL4WamMcc5UCMD20U/view)**
+- 🎓 Know more about my expreriences **[Resume](https://drive.google.com/file/d/1Wvt919xtzBV5HzLYEmAIqtP3S8ELrdgR/view)**
 
 - 🎯 I’m currently learning **Node.js** 
 
